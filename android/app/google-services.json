@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080217087749",
+    "project_id": "blog-app-f7445",
+    "storage_bucket": "blog-app-f7445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080217087749:android:30becfd4239b4071ea116c",
+        "android_client_info": {
+          "package_name": "com.abhi.blog_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080217087749-v828lk4ch86p11flqpt6rluttc2bh6o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9agOosVOO73fznxMm0FaksgmB6PNw2F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080217087749-v828lk4ch86p11flqpt6rluttc2bh6o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
